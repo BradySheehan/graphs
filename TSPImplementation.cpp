@@ -1,7 +1,9 @@
-//Program written by Brady Sheehan
-//implementation of a graph
-//and a brute force solution to the traveling salesman problem
-//#include "stdafx.h"
+//
+// TSPImplementation.cpp
+// Program written by Brady Sheehan
+// implementation of a graph
+// and a brute force solution to the traveling salesman problem
+//
 #include <iostream>
 #include <vector>
 #include <list>
